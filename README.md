@@ -9,6 +9,9 @@
 
 **SHARP-Distill** (**Speedy Hypergraph And Review-based Personalised Distillation**) is a novel knowledge distillation framework that combines Hypergraph Neural Networks (HGNNs) with language models to enhance recommendation quality while achieving **68× faster inference** than HGNN and **40× faster** than LightGCN. Accepted at **ICML 2025**.
 
+## Forty-second International Conference on Machine Learning (ICML) - 2025
+
+
 ### Key Features
 
 - 🚀 **68× faster inference** than HGNN, **40× faster** than LightGCN
